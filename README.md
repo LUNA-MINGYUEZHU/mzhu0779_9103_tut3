@@ -14,11 +14,13 @@ This is my second commit!!
 - Item 2
     - Sub item 1
     - Sub item 2
+
 **Image**
 **Remote images**
 ![An image of a cat](https://placekitten.com/200/300.jpg)
 **Local images**
 ![The Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
 ```
 this is a code block!
 ```
