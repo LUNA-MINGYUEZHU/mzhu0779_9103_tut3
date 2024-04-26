@@ -19,7 +19,7 @@ This is my second commit!!
 **Remote images**
 ![An image of a cat](https://placekitten.com/200/300.jpg)
 **Local images**
-![The Mona Lisa](F:\IDEA 9103\mzhu0779_9103_tut3\readmelmages\Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![The Mona Lisa](readmelmages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 ```
 this is a code block!
